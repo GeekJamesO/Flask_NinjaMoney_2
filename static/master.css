@@ -1,0 +1,42 @@
+body {
+    /*background-color: pink;*/
+}
+
+.container {
+    margin: 1% 5%;
+}
+.GoldRow {
+    /*background-color: gold;*/
+}
+.Action_Row {
+    /*background-color: red;*/
+}
+.ActionBox {
+    background-color: yellow;
+    width: 15%;
+    height:15%;
+    border: 5px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 4%;
+}
+.actionName {
+    margin-left: 66px;
+}
+.goldIncome {
+    margin-left: 23px;
+}
+button {
+    box-shadow: 10px 10px 5px #888888;
+    margin: 10px 61px 10px 61px;
+}
+.ActivitiesRow {
+    /*background-color: green;*/
+    height: 150px;
+    padding: 10px;
+}
+.Activities_Box {
+    /*background-color: blue;*/
+    min-height: 50%;
+    border: 5px solid black;
+}
